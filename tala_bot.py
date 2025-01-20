@@ -3,7 +3,7 @@ import asyncio
 from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
 
 # توکن ربات و شناسه کانال تلگرام
-TELEGRAM_BOT_TOKEN = "7904421118:AAEA00YE0AOcKQ4hpHpy8hsvTx0oeSRazxs"
+TELEGRAM_BOT_TOKEN = ""
 TELEGRAM_CHANNEL_ID = "@irantt_gold"
 
 # متغیر برای ذخیره قیمت قبلی
